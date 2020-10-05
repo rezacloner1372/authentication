@@ -11,3 +11,4 @@ Password also includes number and string.
 The correct email pattern is one that contains two strings and an expression (including strings or numbers and strings at the same time) by @ and. Separated, is considered as the correct email. As follows:
 
 expression@string.string
+end
