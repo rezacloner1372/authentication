@@ -4,10 +4,10 @@ from mysql.connector import errorcode
 print('connecting to db')
 try:
   mydb = mysql.connector.connect(
-    user="kilid",
-    password='123',
-    host="127.0.0.1",
-    database="barbara"
+    user="",
+    password='',
+    host="",
+    database=""
 )
   print('connected to db')
 except mysql.connector.Error as err:
